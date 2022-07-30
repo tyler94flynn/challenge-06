@@ -17,6 +17,9 @@ tyler94flynn@gmail.com
 ## Description
 This website uses the OpenWeather API to allow users to input a city to find the current weather and a 5-day forecast. The website will store past search results locally to allow the user quick access to previous searches.
 
+Screenshot of website:
+[Screenshot](./assets/images/screenshot.png)
+
 ## Project Overview
 
 ### Acceptance Criteria
