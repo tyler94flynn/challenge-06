@@ -1,0 +1,28 @@
+header {
+	background-color: black;
+	text-align: center;
+	font-size: 5rem;
+}
+
+h2 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 2rem;
+}
+
+body {
+	background-color:  rgb(189, 169, 116);
+}
+
+.card {
+	margin: 10px;
+}
+
+footer {
+	padding-top: 10px;
+	padding-left: 450px;
+	background-color: rgb( 200, 235 , 238);
+	text-align: center;
+	font-size: 1rem;
+}
