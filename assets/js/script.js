@@ -9,7 +9,7 @@ var cityHist = [];
 //Store text value of search in local storage
 $('.search').on("click", (event) => {
 	event.preventDefault();
-	city = $(this).parent('.btnPar').siblings('.textVal').val().trim();
+	city = $('.textVal').val();
 	if (city === "") {
 		return;
 	};
