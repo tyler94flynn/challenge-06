@@ -1,7 +1,8 @@
 header {
 	background-color: black;
+    color:rgb(151, 177, 199);
 	text-align: center;
-	font-size: 5rem;
+	font-size: 8rem;
 }
 
 h2 {
@@ -12,17 +13,63 @@ h2 {
 }
 
 body {
-	background-color:  rgb(189, 169, 116);
+	background-color:  rgb(245, 237, 214);
+}
+
+label {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 30px;
 }
 
 .card {
 	margin: 10px;
 }
 
+.colOne {
+	background-color: rgb(239, 235, 250);
+}
+
+.colTwo {
+	background-color: rgb(213, 238, 223);
+}
+
+.histBtnRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.green{
+  background-color: lightgreen;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.red{
+  background-color: red;
+}
+
+.purple{
+  background-color: purple;
+}
+
+.icons {
+	height: 100px;
+	width: 100px;
+}
+
+.cardTodayDate {
+	font-size: 20px;
+}
+
 footer {
-	padding-top: 10px;
-	padding-left: 450px;
 	background-color: rgb( 200, 235 , 238);
-	text-align: center;
-	font-size: 1rem;
+	text-align: left;
+	font-size: 1.3rem;
 }
